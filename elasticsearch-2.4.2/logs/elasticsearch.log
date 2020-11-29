@@ -1,0 +1,40 @@
+[2020-11-27 20:28:21,532][WARN ][bootstrap                ] jvm uses the client vm, make sure to run `java` with the server vm for best performance by adding `-server` to the command line
+[2020-11-27 20:28:22,390][INFO ][node                     ] [Widget] version[2.4.2], pid[1964], build[161c65a/2016-11-17T11:51:03Z]
+[2020-11-27 20:28:22,390][INFO ][node                     ] [Widget] initializing ...
+[2020-11-27 20:28:24,668][INFO ][plugins                  ] [Widget] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2020-11-27 20:28:24,876][INFO ][env                      ] [Widget] using [1] data paths, mounts [[DATA (D:)]], net usable_space [628.6gb], net total_space [918.5gb], spins? [unknown], types [NTFS]
+[2020-11-27 20:28:24,877][INFO ][env                      ] [Widget] heap size [989.8mb], compressed ordinary object pointers [unknown]
+[2020-11-27 20:28:32,680][INFO ][node                     ] [Widget] initialized
+[2020-11-27 20:28:32,680][INFO ][node                     ] [Widget] starting ...
+[2020-11-27 20:28:37,364][INFO ][transport                ] [Widget] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2020-11-27 20:28:37,424][INFO ][discovery                ] [Widget] elasticsearch/hlvkrxZ-RQS8d1OcAeIc9A
+[2020-11-27 20:28:42,025][INFO ][cluster.service          ] [Widget] new_master {Widget}{hlvkrxZ-RQS8d1OcAeIc9A}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2020-11-27 20:28:42,550][INFO ][gateway                  ] [Widget] recovered [3] indices into cluster_state
+[2020-11-27 20:28:46,142][INFO ][http                     ] [Widget] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2020-11-27 20:28:46,142][INFO ][node                     ] [Widget] started
+[2020-11-27 20:28:46,496][INFO ][cluster.routing.allocation] [Widget] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[tmall_springboot][4]] ...]).
+[2020-11-27 20:29:46,827][INFO ][bootstrap                ] running graceful exit on windows
+[2020-11-27 20:29:46,828][INFO ][node                     ] [Widget] stopping ...
+[2020-11-27 20:29:46,962][INFO ][node                     ] [Widget] stopped
+[2020-11-27 20:29:46,963][INFO ][node                     ] [Widget] closing ...
+[2020-11-27 20:29:46,970][INFO ][node                     ] [Widget] closed
+[2020-11-27 20:30:04,837][WARN ][bootstrap                ] jvm uses the client vm, make sure to run `java` with the server vm for best performance by adding `-server` to the command line
+[2020-11-27 20:30:05,323][INFO ][node                     ] [Nova] version[2.4.2], pid[34820], build[161c65a/2016-11-17T11:51:03Z]
+[2020-11-27 20:30:05,323][INFO ][node                     ] [Nova] initializing ...
+[2020-11-27 20:30:06,320][INFO ][plugins                  ] [Nova] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2020-11-27 20:30:06,367][INFO ][env                      ] [Nova] using [1] data paths, mounts [[DATA (D:)]], net usable_space [628.2gb], net total_space [918.5gb], spins? [unknown], types [NTFS]
+[2020-11-27 20:30:06,368][INFO ][env                      ] [Nova] heap size [989.8mb], compressed ordinary object pointers [unknown]
+[2020-11-27 20:30:11,835][INFO ][node                     ] [Nova] initialized
+[2020-11-27 20:30:11,836][INFO ][node                     ] [Nova] starting ...
+[2020-11-27 20:30:15,613][INFO ][transport                ] [Nova] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2020-11-27 20:30:15,620][INFO ][discovery                ] [Nova] elasticsearch/MybTs3e2T0-IJryNHxETUw
+[2020-11-27 20:30:20,181][INFO ][cluster.service          ] [Nova] new_master {Nova}{MybTs3e2T0-IJryNHxETUw}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2020-11-27 20:30:20,438][INFO ][gateway                  ] [Nova] recovered [3] indices into cluster_state
+[2020-11-27 20:30:22,156][INFO ][cluster.routing.allocation] [Nova] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[.kibana][0]] ...]).
+[2020-11-27 20:30:23,807][INFO ][http                     ] [Nova] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2020-11-27 20:30:23,808][INFO ][node                     ] [Nova] started
+[2020-11-27 20:49:15,250][INFO ][bootstrap                ] running graceful exit on windows
+[2020-11-27 20:49:15,251][INFO ][node                     ] [Nova] stopping ...
+[2020-11-27 20:49:15,394][INFO ][node                     ] [Nova] stopped
+[2020-11-27 20:49:15,394][INFO ][node                     ] [Nova] closing ...
+[2020-11-27 20:49:15,407][INFO ][node                     ] [Nova] closed

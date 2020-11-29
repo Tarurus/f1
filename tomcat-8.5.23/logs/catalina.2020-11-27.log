@@ -1,0 +1,60 @@
+27-Nov-2020 20:28:36.610 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.23
+27-Nov-2020 20:28:36.645 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2017 10:30:11 UTC
+27-Nov-2020 20:28:36.646 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.23.0
+27-Nov-2020 20:28:36.646 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Nov-2020 20:28:36.647 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Nov-2020 20:28:36.647 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+27-Nov-2020 20:28:36.648 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23\jdk\jre
+27-Nov-2020 20:28:36.648 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_65-b17
+27-Nov-2020 20:28:36.649 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Nov-2020 20:28:36.649 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23
+27-Nov-2020 20:28:36.650 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23
+27-Nov-2020 20:28:36.651 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23\conf\logging.properties
+27-Nov-2020 20:28:36.652 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Nov-2020 20:28:36.653 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Nov-2020 20:28:36.653 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Nov-2020 20:28:36.654 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23
+27-Nov-2020 20:28:36.654 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23
+27-Nov-2020 20:28:36.655 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23\temp
+27-Nov-2020 20:28:36.656 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23\jdk\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\JAVA\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\Python;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;D:\Code\nodejs\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;D:\Code\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Users\foggy autumn\AppData\Local\Microsoft\WindowsApps;D:\VScode\Microsoft VS Code Insiders\bin;D:\IntelliJ IDEA 2019.2.4\bin;C:\Users\foggy autumn\AppData\Local\GitHubDesktop\bin;%PyCharm Community Edition;D:\Code\Microsoft VS Code\bin;C:\Users\foggy autumn\AppData\Roaming\npm;%CATALINA_HOME%\lib;%CATALINA_HOME%\bin;;.]
+27-Nov-2020 20:28:38.597 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9090"]
+27-Nov-2020 20:28:38.788 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Nov-2020 20:28:38.795 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-9009"]
+27-Nov-2020 20:28:38.799 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Nov-2020 20:28:38.800 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3702 ms
+27-Nov-2020 20:28:38.938 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Nov-2020 20:28:38.939 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.23
+27-Nov-2020 20:28:38.964 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23\webapps\tmall_springboot]
+27-Nov-2020 20:29:05.135 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2020 20:30:28.325 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.23
+27-Nov-2020 20:30:28.341 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 28 2017 10:30:11 UTC
+27-Nov-2020 20:30:28.342 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.23.0
+27-Nov-2020 20:30:28.342 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Nov-2020 20:30:28.343 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Nov-2020 20:30:28.343 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+27-Nov-2020 20:30:28.343 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23\jdk\jre
+27-Nov-2020 20:30:28.350 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_65-b17
+27-Nov-2020 20:30:28.350 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Nov-2020 20:30:28.351 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23
+27-Nov-2020 20:30:28.352 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23
+27-Nov-2020 20:30:28.353 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23\conf\logging.properties
+27-Nov-2020 20:30:28.353 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Nov-2020 20:30:28.354 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Nov-2020 20:30:28.354 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Nov-2020 20:30:28.354 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23
+27-Nov-2020 20:30:28.355 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23
+27-Nov-2020 20:30:28.357 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23\temp
+27-Nov-2020 20:30:28.359 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23\jdk\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\JAVA\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;D:\Python;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;D:\Code\nodejs\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;D:\Code\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Users\foggy autumn\AppData\Local\Microsoft\WindowsApps;D:\VScode\Microsoft VS Code Insiders\bin;D:\IntelliJ IDEA 2019.2.4\bin;C:\Users\foggy autumn\AppData\Local\GitHubDesktop\bin;%PyCharm Community Edition;D:\Code\Microsoft VS Code\bin;C:\Users\foggy autumn\AppData\Roaming\npm;%CATALINA_HOME%\lib;%CATALINA_HOME%\bin;;.]
+27-Nov-2020 20:30:28.546 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9090"]
+27-Nov-2020 20:30:28.659 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Nov-2020 20:30:28.664 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-9009"]
+27-Nov-2020 20:30:28.669 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Nov-2020 20:30:28.670 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 922 ms
+27-Nov-2020 20:30:28.722 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Nov-2020 20:30:28.723 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.23
+27-Nov-2020 20:30:28.739 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23\webapps\tmall_springboot]
+27-Nov-2020 20:30:40.648 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2020 20:31:11.673 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\不能说的秘密\tomcat_with_jdk_hsqldb_springboot\tomcat-8.5.23\webapps\tmall_springboot] has finished in [42,933] ms
+27-Nov-2020 20:31:11.679 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9090"]
+27-Nov-2020 20:31:11.697 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-9009"]
+27-Nov-2020 20:31:11.703 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 43030 ms
