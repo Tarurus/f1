@@ -1,13 +1,12 @@
-how2j Ä£·ÂÌìÃ¨ÕûÕ¾ springboot°æ±¾µØÑÝÊ¾Æô¶¯Ë¼Â·£º
-1. ÒòÎªspringboot °æÓÃµ½ÁË redis ºÍ elasticsearch£¬ËùÒÔÆô¶¯¹ý³Ì£¬ÇëÎñ±Ø°´ÕÕË³ÐòÆô¶¯
-2. ²»Í¬Èí¼þÖ®¼ä´æÔÚ¼æÈÝÎÊÌâ£¬Èç¹ûÄú±¾»úÒÑ¾­×°ÓÐÁË redis»òÕß elasticsearch »òÕß kibana, µ«ÊÇ°æ±¾²»¶Ô£¬ÇëÔÝÍ£±¾»ú°æ±¾£¬Ê¹ÓÃÎÒÌá¹©µÄ°æ±¾
-3. Æô¶¯Ë³ÐòÇë°´ÕÕÅú´¦ÀíÇ°µÄÐòºÅ£¬ÒÀ´ÎÆô¶¯ 
+1. å› ä¸ºspringboot ç‰ˆç”¨åˆ°äº† redis å’Œ elasticsearchï¼Œæ‰€ä»¥å¯åŠ¨è¿‡ç¨‹ï¼Œè¯·åŠ¡å¿…æŒ‰ç…§é¡ºåºå¯åŠ¨
+2. ä¸åŒè½¯ä»¶ä¹‹é—´å­˜åœ¨å…¼å®¹é—®é¢˜ï¼Œå¦‚æžœæ‚¨æœ¬æœºå·²ç»è£…æœ‰äº† redisæˆ–è€… elasticsearch æˆ–è€… kibana, ä½†æ˜¯ç‰ˆæœ¬ä¸å¯¹ï¼Œè¯·æš‚åœæœ¬æœºç‰ˆæœ¬ï¼Œä½¿ç”¨æˆ‘æä¾›çš„ç‰ˆæœ¬
+3. å¯åŠ¨é¡ºåºè¯·æŒ‰ç…§æ‰¹å¤„ç†å‰çš„åºå·ï¼Œä¾æ¬¡å¯åŠ¨ 
 3.1 1-redis.bat
 3.2 2-elasticsearch.bat
 3.3 3.kibana.bat
 3.4 4-tomcat.bat
-4. Æô¶¯Ö®ºó·ÃÎÊµØÖ·£º
-Ç°Ì¨ÑÝÊ¾£º
+4. å¯åŠ¨ä¹‹åŽè®¿é—®åœ°å€ï¼š
+å‰å°æ¼”ç¤ºï¼š
 http://127.0.0.1:9090/tmall_springboot/home
-ºóÌ¨¹ÜÀí£º
+åŽå°ç®¡ç†ï¼š
 http://127.0.0.1:9090/tmall_springboot/admin_category_list
